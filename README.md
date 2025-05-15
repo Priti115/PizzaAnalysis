@@ -52,12 +52,12 @@ In this project, I used **SQL** to explore a pizza sales dataset and uncover key
 ## 📁 Folder Structure
 
 -📂 pizza-sales-analysis
--├── 📄 orders.csv
--├── 📄 order_details.csv
--├── 📄 pizzas.csv
--├── 📄 pizza_types.csv
--├── 📄 Pizza_Sales_Queries.sql
--└── 📄 README.md
+├── 📄 orders.csv
+├── 📄 order_details.csv
+├── 📄 pizzas.csv
+├── 📄 pizza_types.csv
+├── 📄 Pizza_Sales_Queries.sql
+└── 📄 README.md
 ---
 ## 🧠 Insights + Business Use
 
